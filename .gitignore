@@ -1,0 +1,14 @@
+# Environment files
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
